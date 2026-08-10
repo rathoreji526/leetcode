@@ -6,6 +6,7 @@ For daily leetcode DSA practice.
 ## Math
 |  |
 | ------- |
+| [1510-stone-game-iv](https://github.com/rathoreji526/leetcode/tree/master/1510-stone-game-iv) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rathoreji526/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -32,6 +33,7 @@ For daily leetcode DSA practice.
 ## Dynamic Programming
 |  |
 | ------- |
+| [1510-stone-game-iv](https://github.com/rathoreji526/leetcode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rathoreji526/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Tree
 |  |
@@ -49,4 +51,24 @@ For daily leetcode DSA practice.
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rathoreji526/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/rathoreji526/leetcode/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/rathoreji526/leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/rathoreji526/leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/rathoreji526/leetcode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/rathoreji526/leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
