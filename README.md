@@ -6,6 +6,7 @@ For daily leetcode DSA practice.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rathoreji526/leetcode/tree/master/0070-climbing-stairs) |
 | [1510-stone-game-iv](https://github.com/rathoreji526/leetcode/tree/master/1510-stone-game-iv) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rathoreji526/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -33,6 +34,7 @@ For daily leetcode DSA practice.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rathoreji526/leetcode/tree/master/0070-climbing-stairs) |
 | [1510-stone-game-iv](https://github.com/rathoreji526/leetcode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rathoreji526/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Tree
@@ -71,4 +73,8 @@ For daily leetcode DSA practice.
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/rathoreji526/leetcode/tree/master/1510-stone-game-iv) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rathoreji526/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
