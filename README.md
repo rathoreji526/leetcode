@@ -84,6 +84,7 @@ For daily leetcode DSA practice.
 |  |
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/rathoreji526/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rathoreji526/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -96,4 +97,12 @@ For daily leetcode DSA practice.
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/rathoreji526/leetcode/tree/master/0279-perfect-squares) |
+## Hash Table
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rathoreji526/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rathoreji526/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
