@@ -13,6 +13,7 @@ For daily leetcode DSA practice.
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/rathoreji526/leetcode/tree/master/0091-decode-ways) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rathoreji526/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rathoreji526/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -36,6 +37,7 @@ For daily leetcode DSA practice.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rathoreji526/leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/rathoreji526/leetcode/tree/master/0091-decode-ways) |
 | [0279-perfect-squares](https://github.com/rathoreji526/leetcode/tree/master/0279-perfect-squares) |
 | [0746-min-cost-climbing-stairs](https://github.com/rathoreji526/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1510-stone-game-iv](https://github.com/rathoreji526/leetcode/tree/master/1510-stone-game-iv) |
