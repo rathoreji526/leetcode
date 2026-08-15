@@ -9,6 +9,7 @@ For daily leetcode DSA practice.
 | [0070-climbing-stairs](https://github.com/rathoreji526/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/rathoreji526/leetcode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/rathoreji526/leetcode/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/rathoreji526/leetcode/tree/master/0326-power-of-three) |
 | [1510-stone-game-iv](https://github.com/rathoreji526/leetcode/tree/master/1510-stone-game-iv) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rathoreji526/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -119,4 +120,5 @@ For daily leetcode DSA practice.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rathoreji526/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/rathoreji526/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
