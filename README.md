@@ -93,6 +93,7 @@ For daily leetcode DSA practice.
 |  |
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/rathoreji526/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/rathoreji526/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rathoreji526/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Breadth-First Search
 |  |
@@ -109,6 +110,7 @@ For daily leetcode DSA practice.
 ## Hash Table
 |  |
 | ------- |
+| [2956-find-common-elements-between-two-arrays](https://github.com/rathoreji526/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rathoreji526/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rathoreji526/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
