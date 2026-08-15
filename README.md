@@ -6,6 +6,7 @@ For daily leetcode DSA practice.
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rathoreji526/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/rathoreji526/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/rathoreji526/leetcode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/rathoreji526/leetcode/tree/master/0279-perfect-squares) |
@@ -122,6 +123,7 @@ For daily leetcode DSA practice.
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rathoreji526/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/rathoreji526/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rathoreji526/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/rathoreji526/leetcode/tree/master/0509-fibonacci-number) |
