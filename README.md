@@ -92,6 +92,7 @@ For daily leetcode DSA practice.
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/rathoreji526/leetcode/tree/master/0217-contains-duplicate) |
 | [0746-min-cost-climbing-stairs](https://github.com/rathoreji526/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rathoreji526/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rathoreji526/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -110,6 +111,7 @@ For daily leetcode DSA practice.
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/rathoreji526/leetcode/tree/master/0217-contains-duplicate) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rathoreji526/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rathoreji526/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rathoreji526/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -129,4 +131,8 @@ For daily leetcode DSA practice.
 | [0231-power-of-two](https://github.com/rathoreji526/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rathoreji526/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/rathoreji526/leetcode/tree/master/0509-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/rathoreji526/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
