@@ -93,6 +93,7 @@ For daily leetcode DSA practice.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rathoreji526/leetcode/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rathoreji526/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/rathoreji526/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1748-sum-of-unique-elements](https://github.com/rathoreji526/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rathoreji526/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -113,6 +114,7 @@ For daily leetcode DSA practice.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rathoreji526/leetcode/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rathoreji526/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/rathoreji526/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rathoreji526/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rathoreji526/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -137,6 +139,7 @@ For daily leetcode DSA practice.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rathoreji526/leetcode/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rathoreji526/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Counting
 |  |
 | ------- |
