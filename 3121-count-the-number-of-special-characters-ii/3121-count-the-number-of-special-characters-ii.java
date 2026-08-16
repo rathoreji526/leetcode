@@ -1,39 +1,41 @@
 class Solution {
-    private char changeCase(char c){
-        if((int)c>90) return (char)(c-32);
-        return (char)(c+32);
-    }
     private boolean isUpperCase(char c){
         return (int)c <= 90;
     }
     public int numberOfSpecialChars(String word) {
-        int[] freq = new int[256];
-        int[] firstCapitalOcc = new int[26];
-        Arrays.fill(firstCapitalOcc,-1);
+        int[] upperCaseFirstIdx = new int[26];
+        int[] lowerCaseLastIdx = new int[26];
+        Arrays.fill(upperCaseFirstIdx,-1);
+        Arrays.fill(lowerCaseLastIdx,-1);
 
-        boolean[] ansCount = new boolean[26];
+        //tracking:-
+        //     - first index of uppercase
+        //     - last index of lowercase
         int idx = 0;
         for(char c : word.toCharArray()){
-            boolean uc = isUpperCase(c);
-
-            //store first occurence of a letter
-            if(uc && firstCapitalOcc[c-'A']==-1)firstCapitalOcc[c-'A'] = idx;
-
-            if(uc && freq[changeCase(c)]>0)ansCount[c-'A'] = true;
-            if(!uc && firstCapitalOcc[c-'a'] != -1){
-                ansCount[c-'a'] = false;
-                freq[c] = -1;
+            if(isUpperCase(c)){
+                if(upperCaseFirstIdx[c-'A']==-1)upperCaseFirstIdx[c-'A'] = idx;
+            }else{
+                lowerCaseLastIdx[c-'a'] = idx;
             }
-            if(freq[c]!=-1)freq[c]++;
             idx++;
         }
+
         int ans = 0;
-        for(boolean b : ansCount)if(b)ans++;
+        for(int i = 0 ; i < 26 ; i++){
+            if(upperCaseFirstIdx[i]==-1 || lowerCaseLastIdx[i]==-1)continue;
+            if(upperCaseFirstIdx[i]==-1 && lowerCaseLastIdx[i]==-1)continue;
+
+            if(upperCaseFirstIdx[i] > lowerCaseLastIdx[i])ans++;
+        }
         return ans;
     }
 }
 /*
-A -> a
-a -> A
+Task---
+har wo element count karna hai jo uppercase aur lowercase dono me ho!
+make sure ki uppercase ke bad lowercase na ho!
+
+ek kaam kar sakte hai har char ke uppercase ka first index track kar sakte hai aur har case ke lowercase ka last idx note kar sakte hai
 
 */
