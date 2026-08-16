@@ -24,7 +24,6 @@ class Solution {
         int ans = 0;
         for(int i = 0 ; i < 26 ; i++){
             if(upperCaseFirstIdx[i]==-1 || lowerCaseLastIdx[i]==-1)continue;
-            if(upperCaseFirstIdx[i]==-1 && lowerCaseLastIdx[i]==-1)continue;
 
             if(upperCaseFirstIdx[i] > lowerCaseLastIdx[i])ans++;
         }
