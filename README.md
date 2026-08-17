@@ -30,6 +30,7 @@ For daily leetcode DSA practice.
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/rathoreji526/leetcode/tree/master/0055-jump-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rathoreji526/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rathoreji526/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -43,6 +44,7 @@ For daily leetcode DSA practice.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/rathoreji526/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rathoreji526/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/rathoreji526/leetcode/tree/master/0091-decode-ways) |
 | [0279-perfect-squares](https://github.com/rathoreji526/leetcode/tree/master/0279-perfect-squares) |
@@ -94,6 +96,7 @@ For daily leetcode DSA practice.
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/rathoreji526/leetcode/tree/master/0055-jump-game) |
 | [0217-contains-duplicate](https://github.com/rathoreji526/leetcode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rathoreji526/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/rathoreji526/leetcode/tree/master/0746-min-cost-climbing-stairs) |
