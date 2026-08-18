@@ -29,3 +29,18 @@ class Solution {
         return sb.toString();
     }
 }
+/*
+digit -> uniqueness -> order 
+
+zero    -> 'z' unique -> 1
+one     -> 'o' unique when we have already removed two,four,zero -> 9
+two     -> 'w' unique -> 2 
+three   -> 'r' unique when we have already removed four -> 8
+four    -> 'u' unique -> 3
+five    -> 'f' unique when we have already removed four -> 6
+six     -> 'x' unique -> 4 
+seven   -> 'v' unique when we have already removed five -> 7
+eight   -> 'g' unique -> 5
+nine    -> 'i' unique when we have alerady removed six,eight -> 10
+
+ */
