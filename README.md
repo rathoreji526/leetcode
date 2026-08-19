@@ -33,6 +33,7 @@ For daily leetcode DSA practice.
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/rathoreji526/leetcode/tree/master/0055-jump-game) |
+| [1386-cinema-seat-allocation](https://github.com/rathoreji526/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rathoreji526/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rathoreji526/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -103,6 +104,7 @@ For daily leetcode DSA practice.
 | [0442-find-all-duplicates-in-an-array](https://github.com/rathoreji526/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/rathoreji526/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1207-unique-number-of-occurrences](https://github.com/rathoreji526/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1386-cinema-seat-allocation](https://github.com/rathoreji526/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1748-sum-of-unique-elements](https://github.com/rathoreji526/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2295-replace-elements-in-an-array](https://github.com/rathoreji526/leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rathoreji526/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -126,6 +128,7 @@ For daily leetcode DSA practice.
 | [0423-reconstruct-original-digits-from-english](https://github.com/rathoreji526/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rathoreji526/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/rathoreji526/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1386-cinema-seat-allocation](https://github.com/rathoreji526/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1748-sum-of-unique-elements](https://github.com/rathoreji526/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rathoreji526/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2295-replace-elements-in-an-array](https://github.com/rathoreji526/leetcode/tree/master/2295-replace-elements-in-an-array) |
@@ -142,6 +145,7 @@ For daily leetcode DSA practice.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rathoreji526/leetcode/tree/master/0231-power-of-two) |
+| [1386-cinema-seat-allocation](https://github.com/rathoreji526/leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Recursion
 |  |
 | ------- |
