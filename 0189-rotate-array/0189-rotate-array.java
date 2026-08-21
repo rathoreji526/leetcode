@@ -1,7 +1,7 @@
 //- - - - - - - - - -  optimal solution  - - - - - - - - - -
 class Solution {
     private void reverse(int[] nums , int si , int ei){
-        while(si<=ei){
+        while(si<ei){
             int temp = nums[si];
             nums[si++] = nums[ei];
             nums[ei--] = temp;
