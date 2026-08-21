@@ -8,6 +8,7 @@ For daily leetcode DSA practice.
 | ------- |
 | [0050-powx-n](https://github.com/rathoreji526/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/rathoreji526/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/rathoreji526/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rathoreji526/leetcode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/rathoreji526/leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/rathoreji526/leetcode/tree/master/0326-power-of-three) |
@@ -43,6 +44,7 @@ For daily leetcode DSA practice.
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/rathoreji526/leetcode/tree/master/0189-rotate-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rathoreji526/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -100,6 +102,7 @@ For daily leetcode DSA practice.
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/rathoreji526/leetcode/tree/master/0055-jump-game) |
+| [0189-rotate-array](https://github.com/rathoreji526/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rathoreji526/leetcode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rathoreji526/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/rathoreji526/leetcode/tree/master/0746-min-cost-climbing-stairs) |
