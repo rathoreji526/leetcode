@@ -171,4 +171,8 @@ For daily leetcode DSA practice.
 |  |
 | ------- |
 | [2295-replace-elements-in-an-array](https://github.com/rathoreji526/leetcode/tree/master/2295-replace-elements-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/rathoreji526/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
