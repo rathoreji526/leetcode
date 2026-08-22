@@ -16,6 +16,7 @@ For daily leetcode DSA practice.
 | [0509-fibonacci-number](https://github.com/rathoreji526/leetcode/tree/master/0509-fibonacci-number) |
 | [1510-stone-game-iv](https://github.com/rathoreji526/leetcode/tree/master/1510-stone-game-iv) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rathoreji526/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rathoreji526/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
