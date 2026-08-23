@@ -112,6 +112,7 @@ For daily leetcode DSA practice.
 | [1386-cinema-seat-allocation](https://github.com/rathoreji526/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1748-sum-of-unique-elements](https://github.com/rathoreji526/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2295-replace-elements-in-an-array](https://github.com/rathoreji526/leetcode/tree/master/2295-replace-elements-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/rathoreji526/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rathoreji526/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rathoreji526/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Breadth-First Search
@@ -186,4 +187,5 @@ For daily leetcode DSA practice.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/rathoreji526/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [2574-left-and-right-sum-differences](https://github.com/rathoreji526/leetcode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
