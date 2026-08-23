@@ -105,6 +105,7 @@ For daily leetcode DSA practice.
 | [0055-jump-game](https://github.com/rathoreji526/leetcode/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/rathoreji526/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rathoreji526/leetcode/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/rathoreji526/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rathoreji526/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/rathoreji526/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1207-unique-number-of-occurrences](https://github.com/rathoreji526/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -177,4 +178,12 @@ For daily leetcode DSA practice.
 | [0175-combine-two-tables](https://github.com/rathoreji526/leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/rathoreji526/leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/rathoreji526/leetcode/tree/master/0177-nth-highest-salary) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/rathoreji526/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/rathoreji526/leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
