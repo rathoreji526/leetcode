@@ -119,6 +119,7 @@ For daily leetcode DSA practice.
 | [2574-left-and-right-sum-differences](https://github.com/rathoreji526/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rathoreji526/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rathoreji526/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rathoreji526/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@ For daily leetcode DSA practice.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rathoreji526/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rathoreji526/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/rathoreji526/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rathoreji526/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
