@@ -45,6 +45,7 @@ For daily leetcode DSA practice.
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rathoreji526/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/rathoreji526/leetcode/tree/master/0189-rotate-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/rathoreji526/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rathoreji526/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -107,6 +108,7 @@ For daily leetcode DSA practice.
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/rathoreji526/leetcode/tree/master/0055-jump-game) |
+| [0088-merge-sorted-array](https://github.com/rathoreji526/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/rathoreji526/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rathoreji526/leetcode/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/rathoreji526/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -172,6 +174,7 @@ For daily leetcode DSA practice.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rathoreji526/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rathoreji526/leetcode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rathoreji526/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Counting
