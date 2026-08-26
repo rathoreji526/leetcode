@@ -46,6 +46,7 @@ For daily leetcode DSA practice.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/rathoreji526/leetcode/tree/master/0189-rotate-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/rathoreji526/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rathoreji526/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -116,6 +117,7 @@ For daily leetcode DSA practice.
 | [1386-cinema-seat-allocation](https://github.com/rathoreji526/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1748-sum-of-unique-elements](https://github.com/rathoreji526/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2295-replace-elements-in-an-array](https://github.com/rathoreji526/leetcode/tree/master/2295-replace-elements-in-an-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/rathoreji526/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/rathoreji526/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rathoreji526/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rathoreji526/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -144,6 +146,7 @@ For daily leetcode DSA practice.
 | [1748-sum-of-unique-elements](https://github.com/rathoreji526/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rathoreji526/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2295-replace-elements-in-an-array](https://github.com/rathoreji526/leetcode/tree/master/2295-replace-elements-in-an-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/rathoreji526/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rathoreji526/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rathoreji526/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rathoreji526/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
