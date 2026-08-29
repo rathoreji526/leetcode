@@ -49,6 +49,7 @@ For daily leetcode DSA practice.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rathoreji526/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/rathoreji526/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/rathoreji526/leetcode/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/rathoreji526/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -114,6 +115,7 @@ For daily leetcode DSA practice.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rathoreji526/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/rathoreji526/leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/rathoreji526/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/rathoreji526/leetcode/tree/master/0189-rotate-array) |
