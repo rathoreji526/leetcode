@@ -4,10 +4,9 @@ class Solution {
         for(int num : nums)freq[num]++;
 
         int sum = 0;
-        for(int i = 1 ; i < 101 ; i++){
+        for(int i = 1; i <= 100 ; i++){
             if(freq[i]==1)sum+=i;
         }
-        
         return sum;
     }
 }
