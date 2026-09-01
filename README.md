@@ -140,11 +140,13 @@ For daily leetcode DSA practice.
 | [2574-left-and-right-sum-differences](https://github.com/rathoreji526/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rathoreji526/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rathoreji526/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/rathoreji526/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rathoreji526/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/rathoreji526/leetcode/tree/master/0279-perfect-squares) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/rathoreji526/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -170,6 +172,7 @@ For daily leetcode DSA practice.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rathoreji526/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rathoreji526/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/rathoreji526/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/rathoreji526/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rathoreji526/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rathoreji526/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
@@ -183,6 +186,7 @@ For daily leetcode DSA practice.
 | ------- |
 | [0231-power-of-two](https://github.com/rathoreji526/leetcode/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/rathoreji526/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/rathoreji526/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
 |  |
 | ------- |
@@ -235,4 +239,8 @@ For daily leetcode DSA practice.
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/rathoreji526/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/rathoreji526/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
