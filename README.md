@@ -146,6 +146,7 @@ For daily leetcode DSA practice.
 | [3718-smallest-missing-multiple-of-k](https://github.com/rathoreji526/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rathoreji526/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rathoreji526/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/rathoreji526/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -235,6 +236,7 @@ For daily leetcode DSA practice.
 | [0525-contiguous-array](https://github.com/rathoreji526/leetcode/tree/master/0525-contiguous-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/rathoreji526/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/rathoreji526/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/rathoreji526/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
 |  |
 | ------- |
