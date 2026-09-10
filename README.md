@@ -80,11 +80,13 @@ For daily leetcode DSA practice.
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/rathoreji526/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rathoreji526/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rathoreji526/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/rathoreji526/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rathoreji526/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rathoreji526/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -94,6 +96,7 @@ For daily leetcode DSA practice.
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/rathoreji526/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rathoreji526/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rathoreji526/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Minimax
 |  |
 | ------- |
