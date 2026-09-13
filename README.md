@@ -135,6 +135,7 @@ For daily leetcode DSA practice.
 | [0442-find-all-duplicates-in-an-array](https://github.com/rathoreji526/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/rathoreji526/leetcode/tree/master/0525-contiguous-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/rathoreji526/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/rathoreji526/leetcode/tree/master/0835-image-overlap) |
 | [0905-sort-array-by-parity](https://github.com/rathoreji526/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rathoreji526/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/rathoreji526/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -258,5 +259,6 @@ For daily leetcode DSA practice.
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/rathoreji526/leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rathoreji526/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
