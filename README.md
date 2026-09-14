@@ -14,6 +14,7 @@ For daily leetcode DSA practice.
 | [0326-power-of-three](https://github.com/rathoreji526/leetcode/tree/master/0326-power-of-three) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/rathoreji526/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0509-fibonacci-number](https://github.com/rathoreji526/leetcode/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/rathoreji526/leetcode/tree/master/0836-rectangle-overlap) |
 | [1510-stone-game-iv](https://github.com/rathoreji526/leetcode/tree/master/1510-stone-game-iv) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rathoreji526/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rathoreji526/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -261,4 +262,8 @@ For daily leetcode DSA practice.
 | ------- |
 | [0835-image-overlap](https://github.com/rathoreji526/leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rathoreji526/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/rathoreji526/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
