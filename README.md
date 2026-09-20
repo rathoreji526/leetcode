@@ -34,6 +34,7 @@ For daily leetcode DSA practice.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/rathoreji526/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rathoreji526/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rathoreji526/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/rathoreji526/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rathoreji526/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
 |  |
@@ -230,6 +231,7 @@ For daily leetcode DSA practice.
 | [2149-rearrange-array-elements-by-sign](https://github.com/rathoreji526/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rathoreji526/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2295-replace-elements-in-an-array](https://github.com/rathoreji526/leetcode/tree/master/2295-replace-elements-in-an-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/rathoreji526/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Database
 |  |
 | ------- |
