@@ -27,6 +27,7 @@ For daily leetcode DSA practice.
 | [0091-decode-ways](https://github.com/rathoreji526/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/rathoreji526/leetcode/tree/master/0115-distinct-subsequences) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/rathoreji526/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rathoreji526/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rathoreji526/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/rathoreji526/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rathoreji526/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -143,6 +144,7 @@ For daily leetcode DSA practice.
 | [1207-unique-number-of-occurrences](https://github.com/rathoreji526/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/rathoreji526/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1748-sum-of-unique-elements](https://github.com/rathoreji526/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rathoreji526/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rathoreji526/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rathoreji526/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2295-replace-elements-in-an-array](https://github.com/rathoreji526/leetcode/tree/master/2295-replace-elements-in-an-array) |
@@ -180,6 +182,7 @@ For daily leetcode DSA practice.
 | [1207-unique-number-of-occurrences](https://github.com/rathoreji526/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/rathoreji526/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1748-sum-of-unique-elements](https://github.com/rathoreji526/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rathoreji526/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rathoreji526/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2295-replace-elements-in-an-array](https://github.com/rathoreji526/leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/rathoreji526/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
