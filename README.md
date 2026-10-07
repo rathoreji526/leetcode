@@ -26,6 +26,7 @@ For daily leetcode DSA practice.
 | ------- |
 | [0091-decode-ways](https://github.com/rathoreji526/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/rathoreji526/leetcode/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/rathoreji526/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/rathoreji526/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rathoreji526/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rathoreji526/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -40,6 +41,7 @@ For daily leetcode DSA practice.
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/rathoreji526/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rathoreji526/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -163,6 +165,7 @@ For daily leetcode DSA practice.
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/rathoreji526/leetcode/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/rathoreji526/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rathoreji526/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Knapsack Problem
 |  |
