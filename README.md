@@ -28,6 +28,7 @@ For daily leetcode DSA practice.
 | [0115-distinct-subsequences](https://github.com/rathoreji526/leetcode/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/rathoreji526/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/rathoreji526/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [1021-remove-outermost-parentheses](https://github.com/rathoreji526/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rathoreji526/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rathoreji526/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/rathoreji526/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -274,4 +275,12 @@ For daily leetcode DSA practice.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rathoreji526/leetcode/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/rathoreji526/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/rathoreji526/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
