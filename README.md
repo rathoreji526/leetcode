@@ -49,6 +49,7 @@ For daily leetcode DSA practice.
 | ------- |
 | [0055-jump-game](https://github.com/rathoreji526/leetcode/tree/master/0055-jump-game) |
 | [1386-cinema-seat-allocation](https://github.com/rathoreji526/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rathoreji526/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rathoreji526/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rathoreji526/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rathoreji526/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -154,6 +155,7 @@ For daily leetcode DSA practice.
 | [2559-count-vowel-strings-in-ranges](https://github.com/rathoreji526/leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/rathoreji526/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/rathoreji526/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rathoreji526/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rathoreji526/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rathoreji526/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rathoreji526/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -190,6 +192,7 @@ For daily leetcode DSA practice.
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rathoreji526/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2295-replace-elements-in-an-array](https://github.com/rathoreji526/leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/rathoreji526/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rathoreji526/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/rathoreji526/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rathoreji526/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rathoreji526/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -209,6 +212,7 @@ For daily leetcode DSA practice.
 | ------- |
 | [0231-power-of-two](https://github.com/rathoreji526/leetcode/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/rathoreji526/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rathoreji526/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rathoreji526/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
 |  |
